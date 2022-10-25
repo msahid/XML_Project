@@ -15,8 +15,6 @@
 		<parameter name= "state" value ="TX"/>
 		<parameter name= "country" value ="United Kingdom"/>
 		<parameter name= "zip" value ="a75009"/>
-		
-		
 
 		<classes>
 			<!-- <class name="test.LoginTest"></class>  -->
@@ -26,6 +24,5 @@
 		</classes>
 
 	</test>
-
 
 </suite>
